@@ -1,2 +1,2 @@
 # JavaScript-Crash-Course
-I made this project when I tried to learn JavaScript!
+I created this repository to store the projects that I made when I try to learn JavaScript!
